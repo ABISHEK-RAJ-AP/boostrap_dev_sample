@@ -23,23 +23,29 @@ To use this template for your website, clone the repository and edit the HTML an
 git clone and do the magic steps
 
 Usage
+
 The template is built using Bootstrap 4 and can be customized with Bootstrap's class utilities. You can replace the text and images with your own and adjust the layout as needed.
 
 Customization
+
 Navigation: Update the navigation links to point to your own pages.
 Home Page: Replace the placeholder content with your own unique selling points and calls to action.
 About Us: Share the story of your business and team.
 Services: Detail the services you offer and how customers can request them.
 Contact: Provide your contact information and integrate with your CRM or email service.
 Support
+
 If you encounter any issues or have questions about customizing the template, please file an issue in this GitHub repository.
 
 Contributing
+
 Contributions to improve the template are welcome. Please fork the repository and submit a pull request with your changes.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
+
 Bootstrap Team for the amazing framework
 Contributors who have helped with bug fixes and features
