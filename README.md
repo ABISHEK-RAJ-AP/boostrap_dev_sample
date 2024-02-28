@@ -14,7 +14,6 @@ This repository contains a fully responsive Bootstrap website template designed 
 
 ![Rafter Roofing Services Home Page](preview.jpg)
 
-> Replace `/path/to/homepage-screenshot.png` with the relative path to the screenshot image of the homepage in your repository.
 
 ## Installation
 
